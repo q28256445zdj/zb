@@ -1,4 +1,4 @@
-央视直播，#类型#
+央视直播，
 
 CCTV-1，http://www.hiliu.myds.me:8088/rtp/239.254.96.96:8550
 CCTV-1，http://itms.xznet.org:41097/rtp/239.254.200.45:8008
@@ -401,7 +401,7 @@ CHC家庭电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
 
 东南卫视,http://110.178.52.143:8084/udp/239.1.1.33:8033
 
-江苏卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.135:8028
+江苏卫视, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.135:8028
 江苏卫视,http://113.251.228.247:7788/rtp/235.254.198.64:1532
 江苏卫视,http://110.178.52.111:8084/udp/239.1.1.35:8035
 
@@ -420,46 +420,46 @@ CHC家庭电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
 
 
 
-电影,#genre#
+电影，#类型#
 
-空中剧院,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.78:4120
-动作电影,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.92:4120
-动作电影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.92:4120
-光影,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.84:4120
-喜剧电影,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.91:4120
-喜剧电影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.91:4120
-家庭影院,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.93:4120
-家庭影院,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.93:4120
+空中剧院, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.78:4120
+动作电影, http://bplwberp.zzmd.fun:8888/rtp/239.3.1.92:4120
+动作电影, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.92:4120
+光影, http://bplwberp.zzmd.fun:8888/rtp/239.3.1.84:4120
+喜剧电影, http://bplwberp.zzmd.fun:8888/rtp/239.3.1.91:4120
+喜剧电影, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.91:4120
+家庭影院, http://bplwberp.zzmd.fun:8888/rtp/239.3.1.93:4120
+家庭影院, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.93:4120
 
-经典电影,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.195:9024
-经典电影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.195:9024
-精选,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.74:4120
-精选,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.74:4120
-星影,http://bplwberp.zzmd.fun:8888/rtp/239.3.1.94:4120
-星影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.94:4120
-北京IPTV,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.250:8001
+经典电影, http://bplwberp.zzmd.fun:8888/rtp/239.3.1.195:9024
+经典电影, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.195:9024
+精选, http://bplwberp.zzmd.fun:8888/rtp/239.3.1.74:4120
+精选, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.74:4120
+星影, http://bplwberp.zzmd.fun:8888/rtp/239.3.1.94:4120
+星影, http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.94:4120
+北京IPTV，http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.250:8001
 爱情喜剧,http://113.251.228.247:7788/rtp/235.254.198.98:1668
-高分电影,http://cfss.cc/cdn/hy/11352884.flv
-kktv,http://pull.kktv8.com/livekktv/99350550.flv
-经典电影,http://121.24.99.163:8090/hls/103/index.m3u8
+高分电影, http://cfss.cc/cdn/hy/11352884.flv
+KKTV，http://pull.kktv8.com/livekktv/99350550.flv
+经典电影, http://121.24.99.163:8090/hls/103/index.m3u8
 
 
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影院-1台, https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台, https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
 
 
-AMC,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC，http://61.221.215.25:8800/hls/43/index.m3u8
 华数电影,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000410/index.m3u8?
-邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
+邵氏电影院@代 ,http://159.75.85.63:35455/douyu/4246519
 
 
 
 梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
 
-超级电影ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+超级电影ipv6，http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级电视ipv6，http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC家庭电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
